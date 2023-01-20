@@ -1,5 +1,5 @@
-## Olá! você está no perfil do Tiago Bela 🤙
-- Estudando JavaScript👩🏾‍💻
+## Olá! você está no perfil do Tiago Bela 👋🏽
+- Estudando JavaScript👨🏽‍💻
 - Cursando📚
 - 18 anos✨
 ### Contatos:
