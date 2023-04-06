@@ -1,5 +1,5 @@
 ## Olá! você está no perfil do Tiago Bela 👋🏽
-- Estudando: JavaScript 👨🏽‍💻
+- Estudando: programação web 👨🏽‍💻
 - Cursando: Ciência da Computação 📚
 - 18 anos✨
 ### Contatos:
