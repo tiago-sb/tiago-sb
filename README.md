@@ -1,7 +1,7 @@
 ## Olá! você está no perfil do Tiago Bela 👋🏽
 - Estudando: Programação Web 👨🏽‍💻
 - Cursando: Ciência da Computação 📚
-- 18 anos✨
+- 19 anos✨
 ### Contatos:
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiagobella.05/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wtftsb_)
