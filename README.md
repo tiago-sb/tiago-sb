@@ -1,13 +1,29 @@
-## Olá! você está no perfil do Tiago Bela 👋🏽
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=header"/>
+
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&color="00008B&center=true&vCenter=true&size=35&lines=Olá,+me+chamo+Tiago;Seja+bem-vindo(a))](https://git.io/typing-svg)
+
+</div>
+
 - Estudando: Programação Web 👨🏽‍💻
 - Cursando: Ciência da Computação 📚
 - 19 anos✨
-### Contatos:
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiagobella.05/)
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wtftsb_)
-<div>
-    <a href="https://github.com/tiago-sb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=gruvbox"/>
+  
+<div align="center"><br/>
+    <p>contatos</p>
+    <a target="_blank" href="https://www.instagram.com/tiagobella.05/"><img align="center" alt="html5" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+    <a target="_blank" href="https://twitter.com/wtftsb_"><img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238/"><img align="center" alt="twitter" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
+    <a target="_blank" href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F964609060173389864"><img align="center" alt="twitter" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
+    <a target="_blank" href="https://www.facebook.com/profile.php?id=100018877909315"><img align="center" alt="twitter" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook"></a>
+</div><br>
+
+<div align="center">
+    <p>contribuições</p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=shadow_blue"/>
+    <img height="180em" width="21%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-sb&theme=shadow_blue"/>
+    
 </div>
 
 ### Tecnologias e Linguagens conhecidas:
@@ -24,5 +40,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-sb)](https://github.com/tiago-sb/github-readme-stats)
 
-### "Make it Happen"
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&color="00008B&center=true&vCenter=true&size=35&lines=Make+It+Happen)](https://git.io/typing-svg)
 
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=footer"/>
