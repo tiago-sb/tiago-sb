@@ -42,9 +42,16 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
 </div><br><br>
 
+![Snake animation](https://github.com/tiago-sb/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=tiago-sb&repo=tiago-sb&theme=react)](https://github.com/tiago-sb/tiago-sb)
+
+![github-contribution-grid-snake](https://github.com/tiago-sb/tiago-sb/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&color="00008B&center=true&vCenter=true&size=35&lines=Make+It+Happen)](https://git.io/typing-svg)
+
 
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=footer"/>
