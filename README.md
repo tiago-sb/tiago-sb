@@ -21,8 +21,8 @@
 
 <div align="center">
     <p>contribuições</p>
-    <img height="180em" width="40%"src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=shadow_blue"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-sb&theme=shadow_blue"/><br>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=shadow_blue"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-sb&theme=shadow_blue"/><br>
     <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiago-sb&theme=react-dark&area=true&hide_border=true"/>
 </div>
 
