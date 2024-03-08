@@ -29,6 +29,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
     <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C">
@@ -36,7 +37,7 @@
 </div><br/>
 <div align="center"><br>
     <p>hard skills em desenvolvimento</p>
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br><br>
 
 <div align="center">
