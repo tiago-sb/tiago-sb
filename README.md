@@ -20,7 +20,7 @@
 
 <div align="center">
     <p>contribuições</p>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=shadow_blue"/><br>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=gotham"/><br>
     <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiago-sb&theme=react-dark&area=true&hide_border=true"/>
 </div>
 
