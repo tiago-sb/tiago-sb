@@ -6,9 +6,19 @@
 
 </div>
 
-- Estudando: Programação Web 👨🏽‍💻
-- Cursando: Ciência da Computação 📚
-- 19 anos✨
+<div display=" flex">
+    <div align="left">
+        <strong> - Estudando: Programação Web 👨🏽‍💻 </strong> </br> 
+        <strong> - Cursando: Ciência da Computação 📚 </strong> </br> 
+         <strong> - 19 anos✨ </strong> </br> 
+    </div>
+    <div align="right">
+        <img src="https://github.com/tiago-sb/tiago-sb/assets/111618371/fc42cc39-c9ef-4af6-a7dd-3de1a157e6ca" alt="imagem do tiago-sb" width="200" height="200">   
+    </div>
+</div>
+
+
+
 <div align="center"><br/>
     <p>contatos</p>
     <a target="_blank" href="https://www.instagram.com/tiagobella.05/"><img align="center" alt="html5" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
