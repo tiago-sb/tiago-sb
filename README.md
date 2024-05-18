@@ -12,7 +12,7 @@
         Desenvolvedor de software brasileiro que está se graduando no curso de ciência da computação(UESB), possui atualmente 19 anos de idade e está focado no desenvolvimento web. Visando aperfeiçoar suas habilidades e conhecimentos na área da tecnologia tem lidado constantemente com projetos que irão torná-lo um profissional de excelência que está em <strong>constante evolução esculpindo uma carreira com inovação e criatividade</strong>. <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238"/>Ler mais</a>
     </p>
 </div>
-<br><br><br>
+<br><br>
 
 #
 <div align="center"><br/>
