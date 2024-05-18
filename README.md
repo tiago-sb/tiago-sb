@@ -30,13 +30,19 @@
 
 <div align="center">
     <p>contribuições 💼</p>
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=gotham"/>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=gotham"/>
     <!-- <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=tiago-sb&theme=react-dark&area=true&hide_border=true"/> -->
-    <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiago-sb&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&title_color=99D1CE&hide=html,css&bg_color=0C1014&text_color=8B8B8B&border_radius=3&count_private=true"/>
+    <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiago-sb&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&title_color=99D1CE&hide=html,css&bg_color=0C1014&text_color=8B8B8B&border_radius=3&count_private=true"/>
   </a>
 </div>
 
 #
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiago-sb/tiago-sb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: 000)" srcset="https://raw.githubusercontent.com/tiago-sb/tiago-sb/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tiago-sb/tiago-sb/output/github-contribution-grid-snake.svg">
+</picture>
 
 #
 
