@@ -6,17 +6,14 @@
 
 </div>
 
-<div display="flex">
-    <div align="left">
-        ...
-    </div>
-    <div align="right">
-        <img src="https://github.com/tiago-sb/tiago-sb/assets/111618371/997f309c-e73a-4455-ab67-fb90a543bd92" alt="imagem do tiago-sb" width="200" height="200"/>
-    </div>
+<div style="text-align: right;">
+    <img align="right" src="https://github.com/tiago-sb/tiago-sb/assets/111618371/997f309c-e73a-4455-ab67-fb90a543bd92" alt="imagem do tiago-sb" width="200" height="200"/><br><br>
+    <p style="text-align: left;">
+        Desenvolvedor de software brasileiro que está se graduando no curso de ciência da computação(UESB), possui atualmente 19 anos de idade e está focado no desenvolvimento web. Visando aperfeiçoar suas habilidades e conhecimentos na área da tecnologia tem lidado constantemente com projetos que irão torná-lo um profissional de excelência que está em <strong>constante evolução esculpindo uma carreira com inovação e criatividade</strong>. <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238"/>Ler mais</a>
+    </p>
 </div>
 
 #
-
 <div align="center"><br/>
     <p>contatos 📩</p>
     <a target="_blank" href="https://www.instagram.com/tiagobella.05/"><img align="center" alt="html5" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
@@ -24,6 +21,7 @@
     <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238/"><img align="center" alt="twitter" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
     <a target="_blank" href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F964609060173389864"><img align="center" alt="twitter" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
     <a target="_blank" href="https://www.facebook.com/profile.php?id=100018877909315"><img align="center" alt="twitter" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook"></a>
+    
 </div><br>
 
 #
@@ -35,8 +33,6 @@
     <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiago-sb&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&title_color=99D1CE&hide=html,css&bg_color=0C1014&text_color=8B8B8B&border_radius=3&count_private=true"/>
   </a>
 </div>
-
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiago-sb/tiago-sb/output/github-contribution-grid-snake-dark.svg">
