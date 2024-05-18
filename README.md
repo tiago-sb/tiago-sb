@@ -6,36 +6,42 @@
 
 </div>
 
-<div display=" flex">
+<div display="flex">
     <div align="left">
-        <strong> - Estudando: Programação Web 👨🏽‍💻 </strong> </br> 
-        <strong> - Cursando: Ciência da Computação 📚 </strong> </br> 
-         <strong> - 19 anos✨ </strong> </br> 
+        ...
     </div>
     <div align="right">
-        <img src="https://github.com/tiago-sb/tiago-sb/assets/111618371/fc42cc39-c9ef-4af6-a7dd-3de1a157e6ca" alt="imagem do tiago-sb" width="200" height="200">   
+        <img src="https://github.com/tiago-sb/tiago-sb/assets/111618371/997f309c-e73a-4455-ab67-fb90a543bd92" alt="imagem do tiago-sb" width="200" height="200"/>
     </div>
 </div>
 
-
+#
 
 <div align="center"><br/>
-    <p>contatos</p>
+    <p>contatos 📩</p>
     <a target="_blank" href="https://www.instagram.com/tiagobella.05/"><img align="center" alt="html5" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
     <a target="_blank" href="https://twitter.com/wtftsb_"><img align="center" alt="twitter" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x"></a>
     <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238/"><img align="center" alt="twitter" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
     <a target="_blank" href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F964609060173389864"><img align="center" alt="twitter" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
     <a target="_blank" href="https://www.facebook.com/profile.php?id=100018877909315"><img align="center" alt="twitter" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook"></a>
-</div><br><br>
+</div><br>
+
+#
 
 <div align="center">
-    <p>contribuições</p>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=gotham"/><br>
-    <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tiago-sb&theme=react-dark&area=true&hide_border=true"/>
+    <p>contribuições 💼</p>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=gotham"/>
+    <!-- <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=tiago-sb&theme=react-dark&area=true&hide_border=true"/> -->
+    <img height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiago-sb&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&title_color=99D1CE&hide=html,css&bg_color=0C1014&text_color=8B8B8B&border_radius=3&count_private=true"/>
+  </a>
 </div>
 
+#
+
+#
+
 <div align="center"><br>
-    <p>hard skills</p>
+    <p>hard skills 👨🏽‍💻</p>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
     <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
@@ -46,9 +52,11 @@
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
 </div><br/>
 <div align="center"><br>
-    <p>hard skills em desenvolvimento</p>
+    <p>hard skills em desenvolvimento ✍🏽</p>
     <img align="center" alt="typescript" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=white">
-</div><br><br>
+</div><br>
+
+# 
 
 <div align="center">
     
