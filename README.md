@@ -7,7 +7,7 @@
 </div>
 
 <div style="text-align: right;">
-    <img align="right" src="https://github.com/tiago-sb/tiago-sb/assets/111618371/997f309c-e73a-4455-ab67-fb90a543bd92" alt="imagem do tiago-sb" width="200" height="200"/>
+    <img align="right" src="https://github.com/user-attachments/assets/63dd810c-dd26-4cf9-8bde-1a4efc50b975" alt="imagem do tiago-sb" width="200" height="200"/>
     <p style="text-align: left;">
         Desenvolvedor de software brasileiro que está se graduando no curso de ciência da computação(UESB), possui atualmente 20 anos de idade e está focado no desenvolvimento web. Visando aperfeiçoar suas habilidades e conhecimentos na área da tecnologia tem lidado constantemente com projetos que irão torná-lo um profissional de excelência que está em <strong>constante evolução esculpindo uma carreira com inovação e criatividade</strong>. <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238"/>Ler mais</a>
     </p>
