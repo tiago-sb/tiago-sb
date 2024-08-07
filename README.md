@@ -24,6 +24,7 @@
     <a target="_blank" href="https://criarmeulink.com.br/u/1690329618"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
     <a target="_blank" href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F964609060173389864"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
     <a target="_blank" href="https://www.facebook.com/profile.php?id=100018877909315"><img align="center" alt="facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2"></a>
+    <br>
     <a target="_blank" href="https://linktr.ee/tiago_bela"><img align="center" alt="linktree" src="https://img.shields.io/badge/linktree-000?style=for-the-badge&logo=linktree&logoColor=39E09B"></a>
 </div><br>
 
