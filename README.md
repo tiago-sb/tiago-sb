@@ -16,16 +16,16 @@
 
 #
 <div align="center"><br/>
-    <p>contatos 📩</p>
+    <p>contatos 📩</p>    
+    <a target="_blank" href="https://tiago-sb.github.io/js-developer-portfolio/"><img align="center" alt="portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF5722"></a>
+    <a target="_blank" href="https://www.instagram.com/tiagobella.05/"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+    <a target="_blank" href="https://twitter.com/wtftsb_"><img align="center" alt="twitter" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
+    <a target="_blank" href="https://criarmeulink.com.br/u/1690329618"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
+    <a target="_blank" href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F964609060173389864"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
+    <a target="_blank" href="https://www.facebook.com/profile.php?id=100018877909315"><img align="center" alt="facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2"></a>
+    <a target="_blank" href="https://linktr.ee/tiago_bela"><img align="center" alt="linktree" src="https://img.shields.io/badge/linktree-000?style=for-the-badge&logo=linktree&logoColor=39E09B"></a>
 </div><br>
-<a target="_blank" href="https://tiago-sb.github.io/js-developer-portfolio/"><img align="center" alt="portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF5722"></a>
-<a target="_blank" href="https://www.instagram.com/tiagobella.05/"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
-<a target="_blank" href="https://twitter.com/wtftsb_"><img align="center" alt="twitter" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x"></a>
-<a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
-<a target="_blank" href="https://criarmeulink.com.br/u/1690329618"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
-<a target="_blank" href="https://discord.com/login?redirect_to=%2Fchannels%2F%40me%2F964609060173389864"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100018877909315"><img align="center" alt="facebook" src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2"></a>
-<a target="_blank" href="https://linktr.ee/tiago_bela"><img align="center" alt="linktree" src="https://img.shields.io/badge/linktree-000?style=for-the-badge&logo=linktree&logoColor=39E09B"></a>
 
 #
 
@@ -47,17 +47,16 @@
 
 <div align="center"><br>
     <p>hard skills 👨🏽‍💻</p>
-</div><br/>
-
-<a><img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"></a>
-<a><img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4"></a>
-<a><img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"></a>
-<a><img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"></a>
-<a><img align="center" alt="react" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"></a>
-<a><img align="center" alt="typescript" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=6DA55F"></a>
-<a><img align="center" alt="java" src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00"></a>
-<a><img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"></a>
-<a><img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown"></a>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" style="margin: 10px 0;">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4" style="margin: 10px 0;">
+    <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" style="margin: 10px 0;">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" style="margin: 10px 0;">
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" style="margin: 10px 0;">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=6DA55F" style="margin: 10px 0;">
+    <img align="center" alt="java" src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00" style="margin: 10px 0;">
+    <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" style="margin: 10px 0;">
+    <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" style="margin: 10px 0;">
+</div>
 
 <div align="center"><br>
     <p>hard skills em desenvolvimento ✍🏽</p>
