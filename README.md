@@ -17,7 +17,7 @@
 #
 <div align="center"><br/>
     <p>contatos 📩</p>    
-    <a target="_blank" href="https://tiago-sb.github.io/js-developer-portfolio/"><img align="center" alt="portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF5722"></a>
+    <a target="_blank" href="https://app-portifolio-beta.vercel.app/"><img align="center" alt="portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=todoist&logoColor=FF5722"></a>
     <a target="_blank" href="https://www.instagram.com/tiagobella.05/"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
     <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238/"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
 <a target="_blank" href="https://criarmeulink.com.br/u/1690329618"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red"></a>
