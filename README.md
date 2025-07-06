@@ -9,7 +9,7 @@
 <div style="text-align: right;">
     <img align="right" src="https://github.com/user-attachments/assets/63dd810c-dd26-4cf9-8bde-1a4efc50b975" alt="imagem do tiago-sb" width="200" height="200"/>
     <p style="text-align: left;">
-        Desenvolvedor de software brasileiro que está se graduando no curso de ciência da computação(UESB), possui atualmente 20 anos de idade e está focado no desenvolvimento web. Visando aperfeiçoar suas habilidades e conhecimentos na área da tecnologia tem lidado constantemente com projetos que irão torná-lo um profissional de excelência que está em <strong>constante evolução esculpindo uma carreira com inovação e criatividade</strong>. <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238"/>Ler mais</a>
+        Desenvolvedor de software brasileiro que está se graduando no curso de ciência da computação(UESB), possui atualmente 21 anos de idade e está focado no desenvolvimento web. Visando aperfeiçoar suas habilidades e conhecimentos na área da tecnologia tem lidado constantemente com projetos que irão torná-lo um profissional de excelência que está em <strong>constante evolução esculpindo uma carreira com inovação e criatividade</strong>. <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238"/>Ler mais</a>
     </p>
 </div>
 <br/><br/><br/>
@@ -34,7 +34,7 @@
     <p>contribuições 💼</p>
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=tiago-sb&show_icons=true&theme=gotham"/>
     <!-- <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=tiago-sb&theme=react-dark&area=true&hide_border=true"/> -->
-    <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiago-sb&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&title_color=99D1CE&hide=html,css&bg_color=0C1014&text_color=8B8B8B&border_radius=3&count_private=true"/>
+    <!-- <img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiago-sb&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=4&show_icons=true&title_color=99D1CE&hide=html,css&bg_color=0C1014&text_color=8B8B8B&border_radius=3&count_private=true"/> -->
   </a>
 </div>
 
