@@ -57,11 +57,16 @@ Desenvolvedor de software brasileiro que está se graduando no curso de ciência
     <img align="center" alt="java" src="https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00" style="margin: 10px 0;">
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" style="margin: 10px 0;">
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" style="margin: 10px 0;">
+    <img align="center" alt="spring" src="https://img.shields.io/badge/spring-000?style=for-the-badge&logo=spring&logoColor=%236DB33F.svg">
+</div>
+</div>
+<div align="center"><br>
+    <img align="center" alt="spring" src="https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=%236DB33F.svg">
 </div>
 <br>
-<div align="center"><br>
+<div align="center">
     <p>hard skills em desenvolvimento ✍🏽</p>
-    <img align="center" alt="spring" src="https://img.shields.io/badge/spring-000?style=for-the-badge&logo=spring&logoColor=%236DB33F.svg">
+    <img align="center" alt="flask" src="https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white">
 </div><br>
 
 # 
