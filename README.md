@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a29a4&height=100&section=header"/>
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&color="00008B&center=true&vCenter=true&size=35&lines=Olá,+me+chamo+Tiago;Seja+bem-vindo(a))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3500&pause=1200&color=2A29A4&center=true&vCenter=true&width=700&lines=Olá,+me+chamo+Tiago+Bela;Seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-Desenvolvedor de software brasileiro que está se graduando no curso de ciência da computação(UESB), possui atualmente 21 anos de idade e está focado no desenvolvimento web. Visando aperfeiçoar suas habilidades e conhecimentos na área da tecnologia tem lidado constantemente com projetos que irão torná-lo um profissional de excelência que está em <strong>constante evolução esculpindo uma carreira com inovação e criatividade</strong>. <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238"/>Ler mais</a>
+Desenvolvedor de software brasileiro que está se graduando no curso de ciência da computação(UESB), possui atualmente 21 anos de idade e está focado no desenvolvimento web. Visando aperfeiçoar suas habilidades e conhecimentos na área da tecnologia tem lidado constantemente com projetos que irão torná-lo um profissional de excelência que está em <strong>constante evolução esculpindo uma carreira com inovação e criatividade</strong>. <a target="_blank" href="https://www.linkedin.com/in/tiago-bela-215103238"/>Ler mais</a> ↗
 </p>
 
 #
@@ -62,19 +62,15 @@ Desenvolvedor de software brasileiro que está se graduando no curso de ciência
 </div>
 <div align="center"><br>
     <img align="center" alt="spring" src="https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=%236DB33F.svg">
+    <img align="center" alt="flask" src="https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 <br>
-<div align="center">
-    <p>hard skills em desenvolvimento ✍🏽</p>
-    <img align="center" alt="flask" src="https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask&logoColor=white">
-</div><br>
 
 # 
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?&color="00008B&center=true&vCenter=true&size=35&lines=Make+It+Happen)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=2A29A4&center=true&vCenter=true&width=500&lines=Make+It+Happen)](https://git.io/typing-svg)
 
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a29a4&height=100&section=footer"/>
